@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 ## Math
 |  |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
