@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
