@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1280-students-and-examinations) |
 | [1683-invalid-tweets](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1934-confirmation-rate) |
 ## Topological Sort
 |  |
 | ------- |
