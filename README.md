@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1341-movie-rating) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1729-find-followers-count) |
