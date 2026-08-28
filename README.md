@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0619-biggest-single-number) |
+| [1045-customers-who-bought-all-products](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1174-immediate-food-delivery-ii) |
