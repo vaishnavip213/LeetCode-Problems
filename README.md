@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Depth-First Search
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -109,9 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
