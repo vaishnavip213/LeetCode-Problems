@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -119,9 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
