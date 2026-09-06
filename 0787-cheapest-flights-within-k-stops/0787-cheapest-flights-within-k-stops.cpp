@@ -19,7 +19,7 @@ public:
             for(auto iter : adj[node]){
                 int adjnode = iter.first;
                 int wt =iter.second;
-                if(cost + wt < dist[adjnode]){
+                if(cost + wt < dist[adjnode] && stops<=k){
                     dist[adjnode] = cost + wt;
                     q.push({stops+1,{adjnode,cost + wt}});
                 }
