@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Database
 |  |
@@ -164,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
