@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
