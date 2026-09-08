@@ -2,11 +2,28 @@ class Solution {
 public:
     int countNegatives(vector<vector<int>>& grid) {
         int cnt = 0;
-        for(int i=0; i<grid.size(); i++){
-            for(int j=0; j<grid[0].size(); j++){
-                if(grid[i][j]<0){
-                    cnt++;
-                }
+        //BRUTE-FORCE
+        // for(int i=0; i<grid.size(); i++){
+        //     for(int j=0; j<grid[0].size(); j++){
+        //         if(grid[i][j]<0){
+        //             cnt++;
+        //         }
+        //     }
+        // }
+        // return cnt;
+
+        //OPTIMAL
+        int n = grid.size();
+        int m = grid[0].size();
+        int i=n-1;
+        int j=0;
+        while(i>=0 && j<m){
+            if(grid[i][j]<0){
+                cnt += m-j;
+                i--;
+            }
+            else{
+                j++;
             }
         }
         return cnt;
