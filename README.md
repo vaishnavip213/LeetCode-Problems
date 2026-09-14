@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1051-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
