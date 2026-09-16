@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
