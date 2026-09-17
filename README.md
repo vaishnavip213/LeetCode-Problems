@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
