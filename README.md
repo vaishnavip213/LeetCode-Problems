@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
