@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0939-minimum-area-rectangle](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0939-minimum-area-rectangle) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1763-longest-nice-substring) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0940-distinct-subsequences-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
