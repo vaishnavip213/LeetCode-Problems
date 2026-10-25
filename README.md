@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0940-distinct-subsequences-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
