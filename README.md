@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0939-minimum-area-rectangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0939-minimum-area-rectangle](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0939-minimum-area-rectangle) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1763-longest-nice-substring](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1763-longest-nice-substring) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/vaishnavip213/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
